@@ -1,0 +1,1 @@
+<img src="assets/images/logo_panjang.svg" style="width: 100%;max-width: 200px;" alt="logo">
